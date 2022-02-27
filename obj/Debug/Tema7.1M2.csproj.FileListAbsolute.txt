@@ -1,0 +1,7 @@
+C:\Users\Armand Andrei\source\repos\Tema7.1M2\bin\Debug\Tema7.1M2.exe.config
+C:\Users\Armand Andrei\source\repos\Tema7.1M2\bin\Debug\Tema7.1M2.exe
+C:\Users\Armand Andrei\source\repos\Tema7.1M2\bin\Debug\Tema7.1M2.pdb
+C:\Users\Armand Andrei\source\repos\Tema7.1M2\obj\Debug\Tema7.1M2.csprojAssemblyReference.cache
+C:\Users\Armand Andrei\source\repos\Tema7.1M2\obj\Debug\Tema7.1M2.csproj.CoreCompileInputs.cache
+C:\Users\Armand Andrei\source\repos\Tema7.1M2\obj\Debug\Tema7.1M2.exe
+C:\Users\Armand Andrei\source\repos\Tema7.1M2\obj\Debug\Tema7.1M2.pdb
